@@ -2,7 +2,7 @@
  * Demo data used as placeholders and initial values for the blog
  */
 
-export const title = "Talal&apos;s Blog.";
+export const title = "Talal's Blog.";
 
 export const description = [
   {
@@ -13,7 +13,7 @@ export const description = [
         _key: "4a58edd077880",
         _type: "span",
         marks: [],
-        text: "Welcome to Meer Talal&apos;s Blog.",
+        text: "Welcome to Meer Talal's Blog.",
       },
     ],
     
